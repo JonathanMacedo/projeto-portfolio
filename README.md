@@ -1,3 +1,3 @@
 # Projeto Portfólio
 
-![GitHub top language](https://img.shields.io/https://github.com/JonathanMacedo/projeto-portfolio/blob/main/LICENSE)
+![NPM License](https://img.shields.io/npm/l/https://github.com/JonathanMacedo/projeto-portfolio/blob/main/LICENSE)
